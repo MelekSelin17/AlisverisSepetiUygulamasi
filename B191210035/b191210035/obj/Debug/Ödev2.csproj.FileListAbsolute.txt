@@ -1,0 +1,10 @@
+C:\Users\Selin\source\repos\Ödev2\Ödev2\bin\Debug\Ödev2.exe.config
+C:\Users\Selin\source\repos\Ödev2\Ödev2\bin\Debug\Ödev2.exe
+C:\Users\Selin\source\repos\Ödev2\Ödev2\bin\Debug\Ödev2.pdb
+C:\Users\Selin\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.csprojAssemblyReference.cache
+C:\Users\Selin\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.Form1.resources
+C:\Users\Selin\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.Properties.Resources.resources
+C:\Users\Selin\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.csproj.GenerateResource.cache
+C:\Users\Selin\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\Selin\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.exe
+C:\Users\Selin\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.pdb
